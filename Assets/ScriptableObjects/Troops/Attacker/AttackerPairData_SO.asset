@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8822a07379cf448a2a5fabad64d28b, type: 3}
+  m_Name: AttackerPairData_SO
+  m_EditorClassIdentifier: 
+  items:
+  - sprite: {fileID: 21300000, guid: 28d53f51b09d0d54e829e16cc76227bf, type: 3}
+    prefab: {fileID: 3093215480382567389, guid: f96de7d0b4afc6644ada5e386e51db04, type: 3}
+    count: 6
+    bullet: {fileID: 5933398818231888628, guid: 5a96add936dd9424db5badd942818bc7, type: 3}
+    width: 0.8
+    offset: 0.8
+  - sprite: {fileID: 21300000, guid: 43b0a18be64dff148af870edc009d65e, type: 3}
+    prefab: {fileID: 8227720070143924063, guid: bbc4cf86cc699b34d9e90f1ad12d8f99, type: 3}
+    count: 1
+    bullet: {fileID: 2931700559927885639, guid: 05d680ec383a9774191356a96697f9a1, type: 3}
+    width: 1
+    offset: 1
+  - sprite: {fileID: 21300000, guid: 66685f8538209f542bb6baf68b2a136f, type: 3}
+    prefab: {fileID: 8197266065924512760, guid: f4baace9d2aac1543a64e002c15ac17e, type: 3}
+    count: 2
+    bullet: {fileID: 6857133578104386931, guid: 9aed2ef6fc3f69147af1a1a16eff7898, type: 3}
+    width: 1
+    offset: 1
